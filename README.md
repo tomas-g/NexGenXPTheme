@@ -1,7 +1,7 @@
-Friends Theme
+NexGen Theme
 ===================
 
-An OctoberCMS theme for DMA Friends. Use this theme as a starting point for creating a custom look and feel for your Friends installation.
+OctoberCMS Theme for LACMA NexGenXP Implementation. Modified version of DMAFriends theme.
 
 For information on theming in OctoberCMS please visit their documentation [here](https://octobercms.com/docs/cms/themes)
 
